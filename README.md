@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://salihukutiriko.netlify.app/)**
+- 👨‍💻 A link to my **[My Portfolio](https://salihukutiriko.netlify.app/)**
 
 - 📫 How to reach me **salihuabubakar08170@gmail.com**
 
