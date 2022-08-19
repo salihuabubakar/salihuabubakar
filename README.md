@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://media3.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Salihu K</h1>
-<h3 align="center">I'm a Developer from Nigeria.</h3>
+<h3 align="center">A Developer from Nigeria.</h3>
 
 
 ## 🙋‍♂️ About Me
