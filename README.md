@@ -3,14 +3,6 @@
 I hold a Bachelor of Science in Computer Science and have extensive experience as a software engineer. I excel in agile environments and focus on delivering customer-centric applications. With strong skills in React, Nodejs, project management and team communication, I aim to develop high-quality software that meets user needs and advances technological capabilities.
 </h3>
 
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/salihuabubakar/github-readme-stats"><img alt="Salihu Abubakar's  Github Stats" src="https://github-readme-stats.vercel.app/api?username=salihuabubakar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/salihuabubakar/github-readme-stats"><img alt="Salihu Abubakar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihuabubakar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
 <br/>
 <br/>
 
